@@ -25,6 +25,6 @@ public class Main {
         users.forEach(u -> u.toModerator());
 
         //Print all moderators
-        users.forEach(u -> System.out.println(u.getName() + " - " +u.getModerator()));
+        users.forEach(u -> System.out.println("Name: " + u.getName() + "\nModerator: " +u.getModerator()));
     }
 }
