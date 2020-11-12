@@ -1,4 +1,4 @@
-package chapter02;
+package chapter02_hello_lambda;
 
 public class User {
     private String name;

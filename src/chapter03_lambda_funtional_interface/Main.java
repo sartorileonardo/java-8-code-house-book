@@ -1,4 +1,4 @@
-package chapter03;
+package chapter03_lambda_funtional_interface;
 
 public class Main {
     public static void main(String[] args) {

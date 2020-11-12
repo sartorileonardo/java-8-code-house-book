@@ -1,8 +1,7 @@
-package chapter02;
+package chapter02_hello_lambda;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.Consumer;
 
 public class Main {
 
